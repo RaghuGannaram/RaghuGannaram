@@ -4,7 +4,7 @@
 -   💞️ I’m looking to collaborate on ... Buddy full stack projects
 -   🔭 I love Astronomy, Just look at the stars
 
-## TechStack :
+<!-- ## TechStack :
 
 <img align="left" alt="HTML5" width="30px" src="./assets/html.png" />
 <img align="left" alt="CSS3" width="30px" src="./assets/css.png" />
@@ -38,4 +38,4 @@
 [website]: https://raghugannaram.com
 [twitter]: https://twitter.com/RaghuGannaram
 [linkedin]: https://linkedin.com/in/raghugannaram
-[instagram]: https://www.instagram.com/raghugannaram/
+[instagram]: https://www.instagram.com/raghugannaram/ -->
