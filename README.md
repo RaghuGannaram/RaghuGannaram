@@ -1,4 +1,3 @@
--   👋 Hi, I’m Raghu Gannaram
 -   👀 I’m interested in ... Web Development
 -   🌱 I’m currently learning ... Cloud Computing & Web 3.0
 -   💞️ I’m looking to collaborate on ... Buddy full stack projects
