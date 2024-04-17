@@ -57,7 +57,7 @@
 
 ---
 
-## 🎓 Certifications
+<!-- ## 🎓 Certifications
 
 -   🏅 Microsoft Certified Azure Fundamentals (AZ-900)
 -   🏅 Microsoft Certified Artificial Intelligence (AI-900)
@@ -66,7 +66,7 @@
 -   🏅 Microsoft Certified Power Platform (PL-900)
 -   🏅 Microsoft Certified Azure Administrator (AZ-104)
 -   🏅 Qualys Certified Web Application Scanning Specialist
--   🏅 Wix Certified Accessibility Specialist
+-   🏅 Wix Certified Accessibility Specialist -->
 
 <!-- ## 📫 Let's Connect
 
