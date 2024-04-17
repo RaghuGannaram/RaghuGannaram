@@ -71,19 +71,19 @@
 ## 📫 Let's Connect
 
 <div style="display:flex">
-<a href="https://twitter.com/steve_1729" style="margin-right:20px">
+<a href="https://twitter.com/steve_1729" target="_blank" style="margin-right:20px">
   <img src="./assets/twitter.png" alt="Twitter" width="30" height="30" style="margin-right:5px;">
 </a>
 
-<a href="https://www.linkedin.com/in/raghugannaram/" style="margin-right:20px">
+<a href="https://www.linkedin.com/in/raghugannaram/" target="_blank" style="margin-right:20px">
   <img src="./assets/linkedin.png" alt="LinkedIn" width="30" height="30" style="margin-right:5px;">
 </a>
 
-<a href="https://leetcode.com/NeoTheMatrixCoder/" style="margin-right:20px">
+<a href="https://leetcode.com/NeoTheMatrixCoder/" target="_blank" style="margin-right:20px">
   <img src="./assets/leetcode.png" alt="Leetcode" width="30" height="30" style="margin-right:5px;">
 </a>
 
-<a href="https://raghugannaram.com" style="margin-right:20px">
+<a href="https://raghugannaram.com" target="_blank" style="margin-right:20px">
   <img src="./assets/internet.png" alt="Portfolio" width="30" height="30" style="margin-right:5px;">
 </a>
 </div>
