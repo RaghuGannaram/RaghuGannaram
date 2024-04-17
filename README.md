@@ -68,7 +68,9 @@
 -   🏅 Qualys Certified Web Application Scanning Specialist
 -   🏅 Wix Certified Accessibility Specialist
 
-## 📫 Let's Connect
+<!-- ## 📫 Let's Connect
+
+
 
 <div style="display:flex">
 <a href="https://twitter.com/steve_1729" target="_blank" style="text-decoration:none; margin-right:20px">
@@ -86,4 +88,4 @@
 <a href="https://raghugannaram.com" target="_blank" style="text-decoration:none; margin-right:20px">
   <img src="./assets/internet.png" alt="Portfolio" width="30" height="30" style="margin-right:5px;">
 </a>
-</div>
+</div> -->
