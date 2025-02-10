@@ -140,7 +140,7 @@
                     "type": "root"
                 },
                 {
-                    "background": "#2e9599",
+                    "background": "#503e2c",
                     "foreground": "#111111",
                     "powerline_symbol": "",
                     "style": "plain",
@@ -148,7 +148,7 @@
                     "type": "time"
                 },
                 {
-                    "background": "#f36943",
+                    "background": "#31b166",
                     "foreground": "#ffffff",
                     "powerline_symbol": "",
                     "properties": {
