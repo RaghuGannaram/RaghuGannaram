@@ -180,7 +180,7 @@
                     },
                     "style": "diamond",
                     "template": "<parentBackground></>  ",
-                    "trailing_diamond": "",
+                    "trailing_diamond": "\n🚀",
                     "type": "status"
                 }
             ],
