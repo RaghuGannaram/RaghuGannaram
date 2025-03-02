@@ -29,7 +29,7 @@
 
 <img align="left" alt="NodeJS" style="width:30px; margin-right:5px" src="./assets/nodejs.png" />
 <img align="left" alt="ExpressJS" style="width:30px; margin-right:5px" src="./assets/expressjs.svg" />
-<img align="left" alt="Django" style="width:24px; margin-right:5px" src="./assets/django.png" />
+<img align="left" alt="Django" style="width:30px; margin-right:5px" src="./assets/django.webp" />
 <img align="left" alt="Azure Functions" style="width:30px; margin-right:5px" src="./assets/azureFunctions.png" />
 <img align="left" alt="AWS Lambda" style="width:30px; margin-right:5px" src="./assets/awsLambda.png" />
 <br clear="left" />
