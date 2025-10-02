@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Raghu Gannaram
 
-🌌 **Full Stack Developer | Cloud & DevOps Engineer | Applied ML/AI Engineer**
+🌌 **Full Stack Developer | Cloud Architect | Applied ML/AI Engineer**
 
 I’m passionate about creating **reliable, scalable, and intelligent applications** and exploring the intersection of **web, cloud, and machine learning**. I enjoy experimenting with new technologies and transforming innovative ideas into real-world solutions.
 
