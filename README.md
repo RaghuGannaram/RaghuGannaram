@@ -29,7 +29,7 @@ I’m passionate about creating **reliable, scalable, and intelligent applicatio
 <img align="left" alt="JavaScript" style="height:30px; margin-right:10px" src="./assets/javascript.png" />
 
 <img align="left" alt="ReactJS" style="height:30px; margin-right:5px" src="./assets/reactjs.png" />
-<img align="left" alt="NextJS" style="height:30px; margin-right:5px" src="./assets/nextjs.png" />
+<img align="left" alt="NextJS" style="height:30px; margin-right:5px" src="./assets/nextjs.svg" />
 <img align="left" alt="SvelteKit" style="height:30px; margin-right:5px" src="./assets/sveltekit.png" />
 <img align="left" alt="Three.js" style="height:30px; margin-right:10px" src="./assets/threejs.png" />
 
@@ -69,13 +69,12 @@ I’m passionate about creating **reliable, scalable, and intelligent applicatio
 
 ### Cloud & DevOps :
 
-<img align="left" alt="Git" style="width:30px; margin-right:5px" src="./assets/git.png" />
-<img align="left" alt="Bash" style="width:30px; margin-right:5px" src="./assets/bash.png" />
-<img align="left" alt="Azure" style="width:30px; margin-right:5px" src="./assets/azure.png" />
-<img align="left" alt="AWS" style="width:30px; margin-right:5px" src="./assets/aws.png" />
-<img align="left" alt="Docker" style="width:30px; margin-right:5px" src="./assets/docker.png" />
-<img align="left" alt="Kubernetes" style="width:30px; margin-right:5px" src="./assets/kubernetes.png" />
-<img align="left" alt="Terraform" style="width:30px; margin-right:5px" src="./assets/terraform.png" />
+<img align="left" alt="GitHub Actions" style="height:30px; margin-right:5px" src="./assets/github_actions.png" />
+<img align="left" alt="Azure" style="height:30px; margin-right:5px" src="./assets/azure.png" />
+<img align="left" alt="AWS" style="height:30px; margin-right:5px" src="./assets/aws.png" />
+<img align="left" alt="Docker" style="height:30px; margin-right:5px" src="./assets/docker.png" />
+<img align="left" alt="Kubernetes" style="height:30px; margin-right:5px" src="./assets/kubernetes.png" />
+<img align="left" alt="Terraform" style="height:30px; margin-right:5px" src="./assets/terraform.png" />
 <br clear="left" />
 
 ---
